@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Hype</h1>
-<h3 align="center">A passionate fullstack and technical writer developer from localhost:8080</h3>
+<h3 align="center">A passionate fullstack developer and technical writer from localhost:8080</h3>
 
 - 👯 I’m looking to collaborate on **any project**
 
