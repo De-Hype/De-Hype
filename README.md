@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/dehype](https://dev.to/dehype)
 
-- 💬 Ask me about **Mern, and Nextjs**
+- 💬 Ask me about **MongoDB, React.js, Node.js, Expressjs and Nextjs**
 
 - 📫 How to reach me **iamsocialhype@gmail.com**
 
