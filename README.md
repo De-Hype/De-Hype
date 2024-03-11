@@ -5,7 +5,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF_KOBja_w&#x2F;DquCUQGE4WN255Uq1tElMA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF_KOBja_w&#x2F;DquCUQGE4WN255Uq1tElMA&#x2F;view?utm_content=DAF_KOBja_w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"</a> by David Hype
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF_KOBja_w&#x2F;DquCUQGE4WN255Uq1tElMA&#x2F;view?utm_content=DAF_KOBja_w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 <h1 align="center">Hi 👋, I'm David Hype</h1>
 <h3 align="center">A passionate fullstack developer and technical writer from localhost:8080</h3>
