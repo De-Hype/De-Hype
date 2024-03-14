@@ -1,5 +1,5 @@
-<img src="https://ibb.co/7Cv7br6" alt="Alt text" style="width:100%;">
 
+<img src="https://i.ibb.co/6wY6NDf/IMG-tyuwjt.jpg" alt="David Hype Github cover image" style="width:100%;" border="0">
 
 <h1 align="center">Hi 👋, I'm David Hype</h1>
 <h3 align="center">A passionate fullstack developer and technical writer from localhost:8080</h3>
