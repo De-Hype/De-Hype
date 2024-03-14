@@ -1,16 +1,32 @@
 
 <img src="https://i.ibb.co/6wY6NDf/IMG-tyuwjt.jpg" alt="David Hype Github cover image" style="width:100%;" border="0">
 
-<h1 align="center">Hi 👋, I'm David Hype</h1>
-<h3 align="center">A passionate fullstack developer and technical writer from localhost:8080</h3>
+<h1 align="left">Hello there! 👋</h1>
 
-- 👯 I’m looking to collaborate on **any project**
 
-- 📝 I regularly write articles on [https://dev.to/dehype](https://dev.to/dehype)
 
-- 💬 Ask me about **MongoDB, React.js, Node.js, Expressjs and Nextjs**
+<p>I'm David Hype, a Fullstack developer in the Javascipt world.🌍</p>
 
-- 📫 How to reach me **iamsocialhype@gmail.com**
+I am also a technical writer, and avid Forex trader diving into Python and cloud computing, particularly AWS.
+I find programming most fulfilling when I can solve someone's problem with an unexpectedly positive solution. 
+One of the most rewarding aspects of our industry is the opportunity to share knowledge and make a difference by crafting remarkable products."
+When I'm not coding, I'm lost in the mesmerizing realm of anime. 🚀🎌"
+
+
+
+## About Me
+- **Name**: David Hype
+- **Profession**: Fullstack JavaScript Developer, Technical Writer, Forex Trader
+- **Current Focus**: Learning Python and Cloud Computing (AWS)
+
+## Get in Touch
+- 💬 Feel free to reach out for collaborations or questions!
+- 📧 Email: [davidhype@example.com](mailto:davidhype@example.com)
+- 🌐 LinkedIn: [linkedin.com/in/davidhype](https://linkedin.com/in/davidhype)
+- 🐦 Twitter: [@DavidHypeDev](https://twitter.com/DavidHypeDev)
+
+Let's connect and create awesome things together! 😊
+
 
 
 
@@ -20,13 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=De-Hype&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=De-Hype&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Hype&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=De-Hype&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=De-Hype&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=De-Hype&icon=0&color=0)](https://visitcount.itsvg.in)
