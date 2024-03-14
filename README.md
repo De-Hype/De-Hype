@@ -20,14 +20,23 @@ When I'm not coding, I'm lost in the mesmerizing realm of anime. 🚀🎌"
 - **Current Focus**: Learning Python and Cloud Computing (AWS)
 
 ## Get in Touch
-- 💬 Feel free to reach out for collaborations or questions!
-- 📧 Email: [davidhype@example.com](mailto:davidhype@example.com)
-- 🌐 LinkedIn: [linkedin.com/in/davidhype](https://linkedin.com/in/davidhype)
-- 🐦 Twitter: [@DavidHypeDev](https://twitter.com/DavidHypeDev)
+💬 Feel free to reach out for collaborations or questions!
 
-Let's connect and create awesome things together! 😊
-
-
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
+    <a href="https://x.com/Hype_DeBug?t=e7Foxwg4VGVJRCWCTIAdzg&s=09" target="_blank" rel="noopener noreferrer">
+        <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="mailto:piamdavidhype@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="mailto:piamdavidhype@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+<a href="mailto:piamdavidhype@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+  
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
