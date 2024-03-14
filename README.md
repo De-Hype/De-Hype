@@ -12,16 +12,6 @@ I find programming most fulfilling when I can solve someone's problem with an un
 One of the most rewarding aspects of our industry is the opportunity to share knowledge and make a difference by crafting remarkable products."
 When I'm not coding, I'm lost in the mesmerizing realm of anime. 🚀🎌"
 
-
-
-## About Me
-- **Name**: David Hype
-- **Profession**: Fullstack JavaScript Developer, Technical Writer, Forex Trader
-- **Current Focus**: Learning Python and Cloud Computing (AWS)
-
-## Get in Touch
-💬 Feel free to reach out for collaborations or questions!
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
     <a href="https://x.com/Hype_DeBug?t=e7Foxwg4VGVJRCWCTIAdzg&s=09" target="_blank" rel="noopener noreferrer">
         <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
