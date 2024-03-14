@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dfdlbxdqi/image/upload/v1710118519/I_m_not_gonna_run_away_I_never_go_back_on_my_word_That_s_my_nindo_my_ninja_way_x0igzr.png" alt="Alt text" style="width:100%;">
+<img src="https://ibb.co/7Cv7br6" alt="Alt text" style="width:100%;">
 
 
 <h1 align="center">Hi 👋, I'm David Hype</h1>
