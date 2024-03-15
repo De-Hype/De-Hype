@@ -8,8 +8,8 @@
 <p>I'm David Hype, a Fullstack developer in the Javascipt world.🌍</p>
 
 I am also a technical writer, and avid Forex trader diving into Python and cloud computing, particularly AWS.
-I find programming most fulfilling when I can solve someone's problem with an unexpectedly positive solution. 
-One of the most rewarding aspects of our industry is the opportunity to share knowledge and make a difference by crafting remarkable products."
+I find programming most fulfilling when I can solve someone's problem with an unexpectedly positive solution.
+One of the most rewarding aspects of our industry is the opportunity to share knowledge and make a difference by crafting remarkable products.
 When I'm not coding, I'm lost in the mesmerizing realm of anime. 🚀🎌"
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
