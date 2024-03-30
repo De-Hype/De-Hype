@@ -5,7 +5,7 @@
 
 
 
-<p>I'm David Hype, a Fullstack developer touring the rich Javascipt world.🌍</p>
+<p>I'm David Hype, and a Fullstack developer</p>
 
 I am also a technical writer, and avid Forex trader diving into Python and cloud computing, particularly AWS.
 I find programming most fulfilling when I can solve problem with an unexpectedly positive solution.
