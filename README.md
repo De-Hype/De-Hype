@@ -7,7 +7,7 @@
 
 <p>I'm David Hype, and a Fullstack developer</p>
 
-I am also a technical writer, and avid Forex trader diving into Python and cloud computing, particularly AWS.
+I am also a technical writer, and avid Forex trader now diving into PHP and cloud computing, particularly AWS.
 I find programming most fulfilling when I can solve problem with an unexpectedly positive solution.
 One of the most rewarding aspects of our industry is the opportunity to share knowledge and make a difference by crafting remarkable and life-changing products.
 When I'm not coding or learning new Software engineering, I'm lost in the mesmerizing realm of anime. 🚀🎌"
