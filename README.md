@@ -5,9 +5,9 @@
 
 
 
-<p>I'm David Hype, and a Fullstack developer</p>
+<p>I'm David Hype, and a Fullstack Software Engineer, Technical Writer and currently learning DevOps</p>
 
-I am also a technical writer, and avid Forex trader now diving into PHP and cloud computing, particularly AWS.
+I love discussing issues related to cloud computing, system design, performance and others.
 I find programming most fulfilling when I can solve problem with an unexpectedly positive solution.
 One of the most rewarding aspects of our industry is the opportunity to share knowledge and make a difference by crafting remarkable and life-changing products.
 When I'm not coding or learning new Software engineering concept, I'm lost in the mesmerizing realm of anime. 🚀🎌"
