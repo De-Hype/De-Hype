@@ -31,7 +31,7 @@ When I'm not coding or learning new Software engineering concept, I'm lost in th
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,nodejs,docker,express,figma,firebase,gatsby,graphql,js,ts,jest,php,laravel,redis,mongodb,mysql,postgres,prisma,nestjs,nextjs,postman,py,react,svelte,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,githubactions,docker,kubernetes,linux,nodejs,express,gatsby,graphql,js,ts,jest,php,laravel,idea,maven,java,spring,redis,mongodb,mysql,postgres,prisma,firebase,nestjs,nextjs,postman,py,react,svelte,tailwind,sass,figma" />
   </a>
 </p>
 
