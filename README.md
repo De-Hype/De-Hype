@@ -38,8 +38,6 @@ When I'm not coding or learning new Software engineering concept, I'm lost in th
 
 
 ![](https://github-readme-stats.vercel.app/api?username=De-Hype&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![David Hype GitHub stats](https://github-readme-stats.vercel.app/api?username=De-Hype&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=De-Hype&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Hype&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=De-Hype&icon=0&color=0)](https://visitcount.itsvg.in)
