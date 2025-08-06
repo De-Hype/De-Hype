@@ -5,7 +5,7 @@
 
 
 
-<p>I'm David Hype, a Fullstack Software Engineer, Technical Writer and currently learning DevOps</p>
+<p>I'm David Hype, a Fullstack Software Engineer, Technical Writer and currently in love with DevOps</p>
 
 I love discussing issues related to cloud computing,devops, system design, performance and others.
 I find programming most fulfilling when I can solve problem with an unexpectedly positive solution.
